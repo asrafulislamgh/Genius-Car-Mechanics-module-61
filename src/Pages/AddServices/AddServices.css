@@ -1,0 +1,15 @@
+.addForm input,
+textarea {
+  display: block;
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 5px;
+}
+.addForm {
+  margin: 0 auto;
+  max-width: 400px;
+  margin-top: 20px;
+}
+.common-btn {
+  background-color: cornflowerblue;
+}
